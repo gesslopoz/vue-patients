@@ -29,7 +29,7 @@ export default {
     props: ['id'],
     data(){
         return{
-            patient: {}
+            patient:  {}
         }
     }, 
     mounted(){
